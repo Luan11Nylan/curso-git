@@ -11,6 +11,7 @@ namespace Testegit
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo! ");
+            Console.WriteLine("Tenha um Bom dia!!!");
 
             Console.ReadLine();
             Console.ReadKey();
